@@ -1,1 +1,2 @@
-master-----config------test----
+config:
+  info: "master-----config------test----"

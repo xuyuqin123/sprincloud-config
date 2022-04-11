@@ -1,1 +1,2 @@
-master-------config-------product
+config:
+  info: "master-------config-------product"
